@@ -68,7 +68,7 @@ Extra utility functions to extend the standard library:
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 libft/
 
